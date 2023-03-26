@@ -7,6 +7,7 @@ iv. Have the tags: "java",".net","docker" or "C#"
 Requirements:  
 - The code should be tracked with git and pushed to Github or Bitbucket.  The app should be written in Java (bonus points if written in Kotlin)  
 - The list of retrieved users should be dumped in a list in STDOUT.  
+
 Each line should contain:  
 - User name  
 - Location  
