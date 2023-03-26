@@ -5,16 +5,16 @@ ii. Have a reputation of min 223 points.
 iii. Answered min 1 question  
 iv. Have the tags: "java",".net","docker" or "C#"  
 Requirements:  
- The code should be tracked with git and pushed to Github or Bitbucket.  The app should be written in Java (bonus points if written in Kotlin)  
- The list of retrieved users should be dumped in a list in STDOUT.  Each line should contain:  
- User name  
- Location  
- Answer count  
- Question count  
- Tags as a comma delimited string  
- Link to profile  
- Link to avatar  
+- The code should be tracked with git and pushed to Github or Bitbucket.  The app should be written in Java (bonus points if written in Kotlin)  
+- The list of retrieved users should be dumped in a list in STDOUT.  Each line should contain:  
+- User name  
+- Location  
+- Answer count  
+- Question count  
+- Tags as a comma delimited string  
+- Link to profile  
+- Link to avatar  
 Bonus points for:  
- Writing the app in Kotlin  
- Using gradle as a package manager.  
- Use retrofit (https://square.github.io/retrofit/) for API interaction.
+- Writing the app in Kotlin  
+- Using gradle as a package manager.  
+- Use retrofit (https://square.github.io/retrofit/) for API interaction.
